@@ -1,0 +1,74 @@
+.btn1{
+    background : red;
+    border-color : red;
+    color : white;
+    margin-right : 40%;
+}
+
+.btn1:hover{
+    background : white;
+    border-color : red;
+    color : grey; 
+}
+
+.search{
+  width:100%;
+}
+
+.dec{
+  margin-left : 70%;
+  background-color: gray;
+  color : black;
+}
+
+.dec:hover{
+  background-color: red;
+  color:white;
+}
+
+.imgtech {
+  margin-right:570px;
+}
+
+.btn2:hover{
+  text-decoration : none;
+}
+
+.btn3:hover{ 
+  background : red;
+  border-color : red;
+  color : white;
+}
+
+#action {
+  color: white;
+}
+
+.link {
+  color: red;
+}
+
+.wrapper{
+  margin-left : 10%;
+  margin-right :10%;
+  margin-bottom : 30%;
+}
+
+   
+.for {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 1%;
+
+  padding: 2%;
+}
+
+.form {
+  margin-top: 3%;
+
+} 
+
+.form .row {
+  margin-bottom: 3%;
+
+}
